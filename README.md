@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Ein vielseitiger und anpassbarer Timer, der als Progressive Web App (PWA) entwickelt wurde, um die Zeitabläufe für dynamische Schießdisziplinen, insbesondere für den BDMP, zu steuern und zu verwalten.
+Disiplinen wie: PPC 1500, 1020, PP1, PP3, PP4, NPA, etc.
 
 **[» Zur Live-Demo «](https://exeninfo.github.io/eXen-Timer/)**
 
