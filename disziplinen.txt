@@ -211,7 +211,7 @@
     {
       "name": "Stage 4: 10m\n6 Schuss in 6 Sekunden",
       "prepTime": 3,
-      "duration": 8,
+      "duration": 6,
       "repetitions": 1,
       "pauseDuration": 0,
       "soundAtStart": true,
@@ -309,48 +309,6 @@
       "soundAtStart": true,
       "soundAtEnd": true,
       "pauseAfter": true
-    }
-  ],
-  "Police Pistol 1 (30M1)": [
-    {
-      "name": "Stage 1: 25m\n12 Schuss in 2 Minuten",
-      "prepTime": 5,
-      "duration": 120,
-      "repetitions": 1,
-      "pauseDuration": 0,
-      "soundAtStart": true,
-      "soundAtEnd": true,
-      "pauseAfter": true
-    },
-    {
-      "name": "Stage 2: 15m (1. Durchgang)\n6x 1 Schuss in 3 Sekunden",
-      "prepTime": 5,
-      "duration": 3,
-      "repetitions": 6,
-      "pauseDuration": 5,
-      "soundAtStart": true,
-      "soundAtEnd": true,
-      "pauseAfter": true
-    },
-    {
-      "name": "Stage 2: 15m (2. Durchgang)\n6x 1 Schuss in 3 Sekunden",
-      "prepTime": 5,
-      "duration": 3,
-      "repetitions": 6,
-      "pauseDuration": 5,
-      "soundAtStart": true,
-      "soundAtEnd": true,
-      "pauseAfter": true
-    },
-    {
-      "name": "Stage 3: 10m\n3x 2 Schuss in 3 Sekunden",
-      "prepTime": 5,
-      "duration": 3,
-      "repetitions": 3,
-      "pauseDuration": 5,
-      "soundAtStart": true,
-      "soundAtEnd": true,
-      "pauseAfter": false
     }
   ],
   "NPA Service Pistole (A-B-OS)": [
@@ -488,6 +446,132 @@
       "pauseDuration": 0,
       "soundAtStart": false,
       "soundAtEnd": false,
+      "pauseAfter": false
+    }
+  ],
+  "Police Pistol 1 (LAR)": [
+    {
+      "name": "Stage 1: 25m\n12 Schuss in 2 Minuten",
+      "prepTime": 5,
+      "duration": 120,
+      "repetitions": 1,
+      "pauseDuration": 0,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 2: 15m (1. Durchgang)\n6x 1 Schuss in 2 Sekunden",
+      "prepTime": 5,
+      "duration": 2,
+      "repetitions": 6,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 2: 15m (2. Durchgang)\n6x 1 Schuss in 2 Sekunden",
+      "prepTime": 5,
+      "duration": 2,
+      "repetitions": 6,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 3: 10m\n3x 2 Schuss in 3 Sekunden",
+      "prepTime": 5,
+      "duration": 3,
+      "repetitions": 3,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": false
+    }
+  ],
+  "Police Pistol 1 (30M1 - SpCb)": [
+    {
+      "name": "Stage 1: 25m\n12 Schuss in 2 Minuten",
+      "prepTime": 5,
+      "duration": 120,
+      "repetitions": 1,
+      "pauseDuration": 0,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 2: 15m (1. Durchgang)\n6x 1 Schuss in 3 Sekunden",
+      "prepTime": 5,
+      "duration": 3,
+      "repetitions": 6,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 2: 15m (2. Durchgang)\n6x 1 Schuss in 3 Sekunden",
+      "prepTime": 5,
+      "duration": 3,
+      "repetitions": 6,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 3: 10m\n3x 2 Schuss in 3 Sekunden",
+      "prepTime": 5,
+      "duration": 3,
+      "repetitions": 3,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": false
+    }
+  ],
+  "NPA Service Pistol (SpCb)": [
+    {
+      "name": "Stage 1: 25m\n6 Schuss in 15 Sekunden",
+      "prepTime": 3,
+      "duration": 15,
+      "repetitions": 1,
+      "pauseDuration": 0,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 2: 20m\n6 Schuss in 10 Sekunden",
+      "prepTime": 3,
+      "duration": 10,
+      "repetitions": 1,
+      "pauseDuration": 0,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 3: 15m\n3x 2 Schuss in 3 Sekunden",
+      "prepTime": 3,
+      "duration": 3,
+      "repetitions": 3,
+      "pauseDuration": 5,
+      "soundAtStart": true,
+      "soundAtEnd": true,
+      "pauseAfter": true
+    },
+    {
+      "name": "Stage 4: 10m\n6 Schuss in 8 Sekunden",
+      "prepTime": 3,
+      "duration": 8,
+      "repetitions": 1,
+      "pauseDuration": 0,
+      "soundAtStart": true,
+      "soundAtEnd": true,
       "pauseAfter": false
     }
   ]
