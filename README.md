@@ -4,17 +4,28 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Ein vielseitiger und anpassbarer Timer, der als Progressive Web App (PWA) entwickelt wurde, um die Zeitabläufe für dynamische Schießdisziplinen, insbesondere für den BDMP, zu steuern und zu verwalten.
-Disiplinen wie: PPC 1500, 1020, PP1, PP3, PP4, NPA, etc.
 
-**[» Zur Live-Demo «](https://exeninfo.github.io/eXen-Timer/)**
+**[» Zur stabilen Live-Version «](https://exeninfo.github.io/eXen-Timer/)**
+
+---
+
+### **Neu in dieser Version: Europäischer Präzisions Parcours (EPP)**
+Diese Version des eXen-Timers enthält eine voll funktionsfähige und präzise Zeitsteuerung für die komplexe BDMP-Disziplin **Europäischer Präzisions Parcours**.
+
+**[» Zur neuen EPP-Testversion «](https://exeninfo.github.io/eXenTimerEPP/)**
+
+Tester und Feedback sind herzlich willkommen!
+
+---
 
 ## Hauptfunktionen
 
 * **Präziser Timer:** Steuert Vorlaufzeiten, Übungsdauer, Wiederholungen und Pausen sekundengenau.
-* **Akustische Signale:** Klare und deutliche Start- und Endsignale.
-* **Vollständiger Disziplin-Editor:** Erstelle, bearbeite und sortiere Phasen, um eigene, komplexe Abläufe zu erstellen.
+* **Spezial-Modul für EPP:** Dedizierte Logik zur Steuerung der Gesamtzeit (5:30 min), fixer und offener Stationszeiten sowie der Vorlaufzeiten.
+* **Akustische Signale:** Klare und deutliche Start-, End- und Warnsignale.
+* **Vollständiger Disziplin-Editor:** Erstelle, bearbeite und sortiere Phasen, um eigene, komplexe Abläufe zu erstellen oder bestehende anzupassen.
 * **Import & Export:** Sichere und teile einzelne Disziplinen oder deine gesamte Sammlung einfach als Text.
-* **Standard-Disziplinen:** Lade einen kuratierten Satz von BDMP-Standarddisziplinen direkt vom Server.
+* **Standard-Disziplinen:** Lade einen kuratierten Satz von BDMP-Standarddisziplinen **inklusive des Europäischen Präzisions Parcours** direkt in die App.
 * **Progressive Web App (PWA):** Installiere die App auf deinem Smartphone oder Desktop und nutze sie auch offline.
 
 ## Handbuch
@@ -38,17 +49,27 @@ Dieses Projekt steht unter der MIT-Lizenz.
 
 A versatile and customizable timer, developed as a Progressive Web App (PWA), to control and manage the timings for dynamic shooting disciplines, especially for the German BDMP federation.
 
-**[» Live Demo «](https://exeninfo.github.io/eXen-Timer/)**
+**[» Stable Live Version «](https://exeninfo.github.io/eXen-Timer/)**
 
-**Please note:** The application interface is currently in German only. This description explains the functionality of the German UI.
+---
+
+### **New in This Version: European Precision Pistol Course (EPP)**
+This version of the eXen-Timer includes a fully functional and precise timing module for the complex BDMP discipline **European Precision Pistol Course (EPP)**.
+
+**[» New EPP Test Version «](https://exeninfo.github.io/eXenTimerEPP/)**
+
+Testers and feedback are highly welcome!
+
+---
 
 ## Key Features
 
 * **Precise Timer:** Controls preparation times, duration, repetitions, and pauses with second-level accuracy.
-* **Acoustic Signals:** Clear start and end signals.
-* **Complete Discipline Editor:** Create, edit, and sort stages to build your own complex sequences.
+* **Special EPP Module:** Dedicated logic to manage the overall match time (5:30 min), fixed and open-ended station times, as well as prep times.
+* **Acoustic Signals:** Clear start, stop, and warning signals.
+* **Complete Discipline Editor:** Create, edit, and sort stages to build your own complex sequences or customize existing ones.
 * **Import & Export:** Easily save and share individual disciplines or your entire collection as text.
-* **Default Disciplines:** Load a curated set of standard BDMP disciplines directly from the server by clicking the `BDMP-Standard laden` button.
+* **Default Disciplines:** Load a curated set of standard BDMP disciplines, **now including the European Precision Pistol Course (EPP)**, directly into the app.
 * **Progressive Web App (PWA):** Install the app on your smartphone or desktop and use it offline.
 
 ## Manual
